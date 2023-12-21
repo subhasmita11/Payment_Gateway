@@ -13,7 +13,7 @@ JavaScript
 # Getting Started
 Clone the repository:
 
-git clone https://github.com/rks2601/Payment-Gateway.git
+git clone https://github.com/subhasmita11/Payment_Gateway.git
 cd Payment-Gateway
 # Demo
 ![Screenshot (1315)](https://github.com/rks2601/Payment-Gateway/assets/122681297/d0d91f67-8fd3-46c2-87bb-0b459f0cbeb5)
